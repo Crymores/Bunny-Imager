@@ -1,0 +1,13 @@
+{
+  "bg_color": "#0d0d0d",
+  "fg_color": "#ffffff",
+  "font": ["Arial", 10],
+  "button_icons": {
+    "convert": "icons/convert.png",
+    "rename_convert": "icons/rename_convert.png",
+    "open_folder": "icons/open_folder.png",
+    "next": "icons/next.png",
+    "previous": "icons/previous.png"
+  },
+  "progress_bar_color": "#00ff00"
+}
